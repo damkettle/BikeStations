@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Bike Stations</string>
+    <string name="title_activity_map_stations">Map</string>
+
+    <string-array name="items">
+        <item>DBS Station</item>
+        <item>Drury St </item>
+        <item>Bowe Lane </item>
+    </string-array>
+    <string-array name="location">
+        <item>DBS Castle House</item>
+        <item>Drury St Car Park</item>
+        <item>DBS Bowe lane</item>
+    </string-array>
+
+    <string-array name="Description">
+        <item>Enough Room for 30 Bikes</item>
+        <item>Enough Room for 46 Bikes</item>
+        <item>Enough Room for 12 Bikes</item>
+    </string-array>
+
+
+</resources>
